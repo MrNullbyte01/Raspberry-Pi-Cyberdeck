@@ -17,6 +17,10 @@ This repository documents **my own project and any changes I make**. It is not t
 - [Hackster.io — Cyberdore 2064 overview](https://www.hackster.io/news/tommi-laukkane-s-cyberdore-2064-blends-retro-futurism-with-a-raspberry-pi-zero-1adf96a6bed1)
 - [Cyberdore 2064 3D model on Printables](https://www.printables.com/model/945411-cyberdore-2064-cyberdeck)
 
+## Reference research and build plan
+
+See [Cyberdore reference analysis and build plan](docs/reference-and-build-plan.md) for attribution, original references, and a template for documenting my own hardware choices.
+
 ## Project goals
 
 - Build or document a portable Raspberry Pi-based computer.
