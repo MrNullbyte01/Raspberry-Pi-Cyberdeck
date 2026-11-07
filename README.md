@@ -64,3 +64,7 @@ The reference links above belong to their respective authors and publishers. The
 
 ---
 *Personal hardware learning project by MrNullbyte01. Inspired by the work of Tommi Laukkanen; independently documented and modified.*
+
+## Current asset status
+
+The portfolio's `assets/` folder did not contain original Cyberdeck build photos, wiring diagrams, enclosure CAD files, or a hardware bill of materials. This repository therefore contains reference research and planning documentation only; it does not claim that a Cyberdeck has been assembled. Add original photos and design files here as they are created. Do not copy reference-project images or 3D files without checking their licence and attribution requirements.
