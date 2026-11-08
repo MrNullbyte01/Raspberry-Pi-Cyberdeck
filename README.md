@@ -2,7 +2,7 @@
 
 A personal portable-computing project inspired by the Raspberry Pi cyberdeck community and, in particular, **Tommi Laukkanen's Cyberdore** build.
 
-> **Status:** Personal project documentation. Hardware details, modifications, photographs, and build evidence should be added as the build is documented.
+> **Status:** Reference-based project repository. It currently contains 10 STL enclosure/assembly files and a reference PDF. No personal assembly photos, hardware bill of materials, or functional test results have been published yet.
 
 ## Inspiration and attribution
 
@@ -29,19 +29,37 @@ See [Cyberdore reference analysis and build plan](docs/reference-and-build-plan.
 - Document the operating-system setup and practical use.
 - Record original modifications rather than presenting reference designs as my own.
 
-## Build log
+## Files currently in this repository
 
-This section will be updated with verified details as the project progresses.
+The repository currently includes the following 3D-printable STL files:
+
+| File | Description |
+|---|---|
+| [Back cover.stl](Back%20cover.stl) | Enclosure back cover |
+| [Cyberdeck bottom shell.stl](Cyberdeck%20bottom%20shell.stl) | Lower enclosure shell |
+| [Cyberdeck screen mask.stl](Cyberdeck%20screen%20mask.stl) | Screen bezel / mask |
+| [Cyberdeck top outer shell.stl](Cyberdeck%20top%20outer%20shell.stl) | Upper outer shell |
+| [Cyberdeck top shell.stl](Cyberdeck%20top%20shell.stl) | Upper shell component |
+| [Display holder v2.stl](Display%20holder%20v2.stl) | Revised display holder |
+| [Display holder.stl](Display%20holder.stl) | Display holder |
+| [Handle.stl](Handle.stl) | Handle component |
+| [Lens holder.stl](Lens%20holder.stl) | Lens holder |
+| [Power label.stl](Power%20label.stl) | Power label component |
+
+A reference PDF is also stored in the repository. These files are available as model assets; their presence does not prove that the enclosure has been printed or assembled.
+
+## Build log
 
 | Area | Status |
 |---|---|
-| Reference research | In progress |
-| Exact Raspberry Pi model | To be documented |
-| Display and keyboard | To be documented |
+| Cyberdore reference research | Documented |
+| STL model files | 10 files present |
+| Exact Raspberry Pi model in my own build | To be documented |
+| Display and keyboard actually selected | To be documented |
 | Battery and power arrangement | To be documented |
-| Enclosure / 3D-print files | To be documented |
+| 3D printing / assembly completed | Not yet evidenced |
 | Operating system and setup | To be documented |
-| Photos and functional tests | To be added |
+| Original photos and functional tests | To be added |
 
 ## Suggested repository structure
 
@@ -67,4 +85,4 @@ The reference links above belong to their respective authors and publishers. The
 
 ## Current asset status
 
-The portfolio's `assets/` folder did not contain original Cyberdeck build photos, wiring diagrams, enclosure CAD files, or a hardware bill of materials. This repository therefore contains reference research and planning documentation only; it does not claim that a Cyberdeck has been assembled. Add original photos and design files here as they are created. Do not copy reference-project images or 3D files without checking their licence and attribution requirements.
+The portfolio's `assets/` folder did not contain original Cyberdeck build photos, wiring diagrams, or a hardware bill of materials. This repository does contain 10 STL model files and a reference PDF, but no evidence currently confirms that the parts have been printed or assembled. Add original photos, selected hardware details, and functional tests as the build progresses.
